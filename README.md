@@ -1,4 +1,4 @@
-📬 Gmail Email Sender using Gemini (Vertex AI)
+#📬 Gmail Email Sender using Gemini (Vertex AI)
 This project allows you to send intelligent, automated emails using Google's Gemini via Vertex AI and Gmail. It runs entirely on Google Colab and is designed for marketing, follow-ups, or personalized communications powered by AI.
 
 🚀 Getting Started
